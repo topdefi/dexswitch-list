@@ -1,0 +1,24 @@
+{
+    "name": "DexSwitch",
+    "logoURI": "https://raw.githubusercontent.com/topdefi/dexswitch-list/main/images/cvm.png",
+    "keywords": [
+      "dexswitch",
+      "defi"
+    ],
+    "timestamp": "2024-04-05T20:37:00.000+00:00",
+    "tokens": [
+      {
+        "chainId": 323,
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "name": "Wrapped CVM",
+        "symbol": "WCVM",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/topdefi/dexswitch-list/main/images/cvm.png"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
